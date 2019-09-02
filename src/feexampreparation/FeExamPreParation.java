@@ -20,6 +20,7 @@ public class FeExamPreParation {
         // TODO code application logic here
         
         System.out.println("Hello");
+        System.out.println("Try GIT");
     }
     
 }
